@@ -10,3 +10,10 @@ This project focuses on predicting the functionality of water pumps in Tanzania 
 - The dataset comprises 59,400 water points, making it robust for training predictive models.
 - Features include numerical, categorical, and geographical data, providing a comprehensive view of factors affecting pump functionality.
 - The primary target variable is status_group, which categorizes pumps as either functional, non-functional, or functional but needing repairs.
+
+### Target Variable Distribution
+   - **Functional Pumps:** 54.3% (32,259)
+   - **Non-Functional Pumps:** 38.4% (22,824)
+   - **Functional but Needs Repair:** 7.3% (4,317)
+
+   **Insight:** A significant portion of pumps are non-functional or require repairs, highlighting the importance of early maintenance intervention.
