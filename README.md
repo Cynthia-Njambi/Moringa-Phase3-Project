@@ -5,3 +5,8 @@ This project focuses on predicting the functionality of water pumps in Tanzania 
 ### Stakeholders
 - Non-Governmental Organizations (NGOs): Involved in providing support for well repairs across Tanzania.
 - Government of Tanzania (Ministry of Water): Seeks to understand patterns in non-functional wells to improve the planning and construction of new water points.
+
+### Data Overview
+- The dataset comprises 59,400 water points, making it robust for training predictive models.
+- Features include numerical, categorical, and geographical data, providing a comprehensive view of factors affecting pump functionality.
+- The primary target variable is status_group, which categorizes pumps as either functional, non-functional, or functional but needing repairs.
