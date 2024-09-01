@@ -17,3 +17,12 @@ This project focuses on predicting the functionality of water pumps in Tanzania 
    - **Functional but Needs Repair:** 7.3% (4,317)
 
    **Insight:** A significant portion of pumps are non-functional or require repairs, highlighting the importance of early maintenance intervention.
+
+### Funding Insights
+   - **Average Funding (`amount_tsh`):**
+     - Functional pumps: 461.80 Tsh
+     - Functional but needs repair: 267.07 Tsh
+     - Non-functional pumps: 123.48 Tsh
+
+   **Insight:** Better-funded pumps are more likely to be functional, while lower-funded pumps are at a higher risk of failure.
+
