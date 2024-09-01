@@ -39,6 +39,12 @@ I chose three models: a Logistic Regression model, then a decision tree model an
 - Decision Tree outperforms Logistic Regression in terms of accuracy.
 - The model also performs slightly better with predicting class 1 (functional that needs repair) with a precision of 30% and a recall of 13% as compared to Logistic Regression both of which scored 0%
 
+### Random Forest Model
+![Random Forest Model](image-2.png)
+- Random Forest has the highest accuracy of (0.6740), which indicates better overall performance in predicting the target variable.
+- Random Forest also has the best performance in precision, recall and F1-score.
+
+
 
 
 
