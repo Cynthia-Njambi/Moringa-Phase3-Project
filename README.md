@@ -28,6 +28,11 @@ This project focuses on predicting the functionality of water pumps in Tanzania 
 
 # Modeling & Evaluation
 I chose three models: a Logistic Regression model, then a decision tree model and then finally random forest tree.
+### Logistic Regression Model
+- I used the logistic regression model as my baseline model.
+- In the model I realized that it is evident that class 1(functional that needs repair) pumps is performing poorly on my model based on the precision, recall and F1-score being 0.
+- This may be because that the class is being underrepresented thus the model is not learning enough about it.
+
 
 
 
