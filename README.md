@@ -26,3 +26,8 @@ This project focuses on predicting the functionality of water pumps in Tanzania 
 
    **Insight:** Better-funded pumps are more likely to be functional, while lower-funded pumps are at a higher risk of failure.
 
+# Modeling & Evaluation
+I chose three models: a Logistic Regression model, then a decision tree model and then finally random forest tree.
+
+
+
