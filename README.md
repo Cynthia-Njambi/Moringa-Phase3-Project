@@ -34,6 +34,12 @@ I chose three models: a Logistic Regression model, then a decision tree model an
 - In the model I realized that it is evident that class 1(functional that needs repair) pumps is performing poorly on my model based on the precision, recall and F1-score being 0.
 - This may be because that the class is being underrepresented thus the model is not learning enough about it.
 
+### Decision Tree Model
+![Decision Tree Model](image-1.png)
+- Decision Tree outperforms Logistic Regression in terms of accuracy.
+- The model also performs slightly better with predicting class 1 (functional that needs repair) with a precision of 30% and a recall of 13% as compared to Logistic Regression both of which scored 0%
+
+
 
 
 
