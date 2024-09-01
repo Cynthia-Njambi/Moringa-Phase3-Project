@@ -1,4 +1,7 @@
 # Overview
-Tanzania is a country with a population of 57 million. It faces significant challenges in providing clean and reliable water to its population.
-The country has established numerous water points to meet this need but many of these water points are not fully functional, with some requiring repairs and others have failed entirely.
-This project aims to predict the functionality of these water pumps, distingishing between those that are fully functional, those that need repairs and those that do not work at all
+This project focuses on predicting the functionality of water pumps in Tanzania using a large dataset provided by Taarifa and the Tanzanian Ministry of Water. The goal is to assist NGOs and the Tanzanian government in identifying critical factors that influence pump functionality, enabling them to make informed decisions on maintenance and new installations.
+
+# Business & Data Understanding
+### Stakeholders
+- Non-Governmental Organizations (NGOs): Involved in providing support for well repairs across Tanzania.
+- Government of Tanzania (Ministry of Water): Seeks to understand patterns in non-functional wells to improve the planning and construction of new water points.
