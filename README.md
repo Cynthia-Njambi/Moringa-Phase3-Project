@@ -44,6 +44,18 @@ I chose three models: a Logistic Regression model, then a decision tree model an
 - Random Forest has the highest accuracy of (0.6740), which indicates better overall performance in predicting the target variable.
 - Random Forest also has the best performance in precision, recall and F1-score.
 
+# Conclusion
+#### 1. Top 3 Critical Factors Influencing Functionality of Water Pumps
+>1. **Population** : This is the most important feature, indicating that the population size near a wate pump has a significant impact on its functionality.
+>2. **Funders** : The organization or entity funding the pumps shows that there are funders that may have varying standards for pump quality and maintenance.
+>3. **Installers**: The company or individual who installed the pump shows that the quality of installation can greatly influence the pump's performance
+
+#### 2. The Role Construction Year Plays in its Current State Functionality
+>- `construction_year` shows a moderate correlation with `gps_height` and its `status_group`.
+> - This gives us an insight that would inform us that pumps built earlier might be more prone to failure This could inform us on the maintenance schedules.
+
+#### 3. Are there regions that show consistently have non functional or poorly performing water pumps?
+>- From the correlation between `region_code` and `district_code` with `status_group` suggests that certain areas might have more challenges, possibly due to environmental or management factors.
 
 
 
